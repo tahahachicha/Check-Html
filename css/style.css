@@ -112,7 +112,7 @@ body {
     height: 471px;}
 .formulaire{width: 450px}
 .capture8{
-  display: flex
+  display: flex;
   justify-content: center
 }
 .cover{
@@ -124,5 +124,5 @@ body {
 .capture5{
   width: 100px;
   height: 450px;
-  padding: 50px;
+  padding:50px;
 }
